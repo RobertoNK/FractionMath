@@ -1,0 +1,6 @@
+Modify the FractionMath program(Programming project 4, chapter 3)
+so it performs a partial validation. If either fraction does
+not contain exactly one slash, have the program prompt the user
+to re-enter the fraction. The program will repeat the prompt
+as often as necessary until the user enters a string containing
+one slash.
